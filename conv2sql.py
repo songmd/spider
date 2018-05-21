@@ -3,6 +3,33 @@ import json
 import os
 import mysql.connector
 
+def order():
+    conn = sqlite3.connect('baidu_idiom.db')
+    c = conn.cursor()
+    c.execute('SELECT * FROM idiom ORDER BY lizi DESC ')
+
+    conn1 = sqlite3.connect('baidu_idiom1.db')
+    c1 = conn1.cursor()
+    c1.execute('''CREATE TABLE idiom
+                 (chengyu TEXT,pinyin TEXT,jieshi TEXT,chuchu TEXT,
+                 lizi TEXT,gushi TEXT,baike TEXT,redu INTEGER)''')
+
+    for row in c:
+        c1.execute("INSERT INTO idiom VALUES (?,?,?,?,?,?,?,?)", row)
+
+    conn1.commit()
+
+order()
+
+def delete_pinyin_null():
+    conn = sqlite3.connect('baidu_idiom.db')
+    c = conn.cursor()
+    c.execute('DELETE FROM idiom WHERE pinyin = ""')
+    c.execute('DELETE FROM idiom WHERE lizi = "" AND chuchu="" AND gushi=""')
+    c.execute('DELETE FROM idiom WHERE lizi = "" AND gushi="" AND baike=""')
+    conn.commit()
+    # Create table
+# delete_pinyin_null()
 
 def  union_sql():
     conn = mysql.connector.connect(user='root', database='chengyu', use_unicode=True)
@@ -39,7 +66,7 @@ def  union_sql2():
     cursor.close()
     conn.close()
     pass
-union_sql2()
+# union_sql2()
 
 def import_sql(sql_file):
     root,ext = os.path.splitext(sql_file)

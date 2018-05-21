@@ -1,0 +1,67 @@
+ https://so.gushiwen.org/shiwenv_188042d54d21.aspx
+2018-05-16 14:13:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_c8611924e98c.aspx> (referer: None)
+2018-05-16 14:13:09 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=5ed7536feaa3&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_5ed7536feaa3.aspx
+2018-05-16 14:13:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_aff9489c809f.aspx> (referer: None)
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=29751 HTTP/1.1" 200 0
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=c8611924e98c&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_c8611924e98c.aspx
+2018-05-16 14:13:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_743c4d65d4a8.aspx> (referer: None)
+2018-05-16 14:13:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=1347 HTTP/1.1" 200 0
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=aff9489c809f&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_aff9489c809f.aspx
+2018-05-16 14:13:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_5f2b13745a40.aspx> (referer: None)
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=743c4d65d4a8&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_743c4d65d4a8.aspx
+2018-05-16 14:13:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_ec1d90dd300f.aspx> (referer: None)
+2018-05-16 14:13:11 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=5f2b13745a40&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_5f2b13745a40.aspx
+2018-05-16 14:13:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_18f6229c4ea4.aspx> (referer: None)
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=ec1d90dd300f&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_ec1d90dd300f.aspx
+2018-05-16 14:13:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_a34515584d95.aspx> (referer: None)
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=55730 HTTP/1.1" 200 0
+2018-05-16 14:13:12 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=18f6229c4ea4&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_18f6229c4ea4.aspx
+2018-05-16 14:13:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_28c806dada37.aspx> (referer: None)
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=12975 HTTP/1.1" 200 0
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=a34515584d95&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_a34515584d95.aspx
+2018-05-16 14:13:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_3cd23f168474.aspx> (referer: None)
+2018-05-16 14:13:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=26470 HTTP/1.1" 200 0
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=28c806dada37&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_28c806dada37.aspx
+2018-05-16 14:13:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_edf13cd7aea9.aspx> (referer: None)
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=1981 HTTP/1.1" 200 0
+2018-05-16 14:13:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=3cd23f168474&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_3cd23f168474.aspx
+2018-05-16 14:13:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_ad1c3466c6de.aspx> (referer: None)
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=39109 HTTP/1.1" 200 None
+done https://so.gushiwen.org/shiwenv_edf13cd7aea9.aspx ['注释', '⑴蝶恋花：又名“凤栖梧”、“鹊踏枝”等。唐教坊曲，后用为词牌。双调，六十字，上下片各四仄韵。', '⑵画屏：有画饰的屏风。', '⑶惊回：惊醒。', '⑷高唐：战国时楚国台馆名，在云梦泽中，楚王游猎之所，一说在江汉平原。宋玉《高唐赋》：“昔者楚襄王与宋玉游于云梦之台，望高唐之观。其上独有云气，玉曰：‘昔者\n']
+2018-05-16 14:13:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_9ebb8a2fd788.aspx> (referer: None)
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=54993 HTTP/1.1" 200 0
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxshiwencont.aspx?id=ad1c3466c6de&value=zhu HTTP/1.1" 200 0
+failed https://so.gushiwen.org/shiwenv_ad1c3466c6de.aspx
+2018-05-16 14:13:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://so.gushiwen.org/shiwenv_37d8af57d0b5.aspx> (referer: None)
+2018-05-16 14:13:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): so.gushiwen.org
+2018-05-16 14:13:16 [urllib3.connectionpool] DEBUG: https://so.gushiwen.org:443 "GET /shiwen2017/ajaxfanyi.aspx?id=24661 HTTP/1.1" 200 0
+2018-05-16 14:13:16 [urllib3.connectionpool] DEBUG: Start
